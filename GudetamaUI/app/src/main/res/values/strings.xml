@@ -10,4 +10,9 @@
     <string name="title_map">Map</string>
     <string name="title_kategori">Kategori</string>
     <string name="searchbar_hint">Enaknya makan apa ya?</string>
+    <string name="title_item">Judul</string>
+    <string name="rating">Rating</string>
+    <string name="range">Range</string>
+    <string name="title_recommendation_list">Direkomendasikan untuk anda</string>
+    <string name="title_place_recommendation">Berdasarkan lokasi anda</string>
 </resources>
