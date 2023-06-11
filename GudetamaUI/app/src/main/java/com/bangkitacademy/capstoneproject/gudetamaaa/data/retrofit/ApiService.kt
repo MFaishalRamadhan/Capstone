@@ -7,7 +7,7 @@ interface ApiService{
     @GET("detail/{id}")
     fun getRestaurant(
         @Path("id") id: String
-    ): Call<ResturantResponse>
+    ): Call<SomeResponse>
 
     @FormUrlEncoded
     @Headers("Authorization: token 12345")
@@ -16,5 +16,5 @@ interface ApiService{
         @Field("id") id: String,
         @Field("name") name: String,
         @Field("review") review: String
-    ): Call<PostReviewResponse>
+    ): Call<SomeResponse>
 }

@@ -19,7 +19,7 @@ class HomeAdapter(private val list: ArrayList<Home>, private val listener : (Hom
     class ViewHolder(var itemBinding: FragmentHomeBinding):
             RecyclerView.ViewHolder(itemBinding.root){
                 fun bindItem(place: Home){
-                    itemBinding.
+
                 }
             }
 
