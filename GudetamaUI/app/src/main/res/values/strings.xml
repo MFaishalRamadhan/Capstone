@@ -15,4 +15,18 @@
     <string name="range">Range</string>
     <string name="title_recommendation_list">Direkomendasikan untuk anda</string>
     <string name="title_place_recommendation">Berdasarkan lokasi anda</string>
+    <string name="title_page_setting">Pengaturan</string>
+    <string-array name="account_setting_menu_list">
+        <item>Akun</item>
+        <item>Keamanan</item>
+    </string-array>
+    <string-array name="other_setting_menu_list">
+        <item>Bahasa</item>
+        <item>Tema</item>
+        <item>Lokasi</item>
+        <item>Terms and Conditions</item>
+    </string-array>
+    <string name="text_logout">Logout</string>
+    <string name="title_account_setting">Akun dan Keamanan</string>
+    <string name="text_account">Account</string>
 </resources>

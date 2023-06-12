@@ -28,7 +28,7 @@ class SettingFragment : Fragment() {
         _binding = FragmentSettingBinding.inflate(inflater, container, false)
         val root: View = binding.root
 
-        val textView: TextView = binding.textSetting
+        val textView: TextView = binding.titlePageSetting
         settingViewModel.text.observe(viewLifecycleOwner) {
             textView.text = it
         }

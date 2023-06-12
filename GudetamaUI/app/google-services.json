@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1008333920647",
+    "firebase_url": "https://restapifirebase-389204-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "restapifirebase-389204",
+    "storage_bucket": "restapifirebase-389204.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008333920647:android:6d500cc533157b19b49b22",
+        "android_client_info": {
+          "package_name": "com.bangkitacademy.capstoneproject.gudetamaaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008333920647-qu0ueterq80jelui03137bvlnn5o6r00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-LFTVs-XQB2p1L7vfGArXPmo-qNNtndU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008333920647-hmvh5e962esk396l851j06q83fccdfqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

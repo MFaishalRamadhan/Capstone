@@ -54,6 +54,7 @@
             android:maxLines="1"
             android:padding="2dp"
             android:hint="@string/range"
+            android:textAlignment="textEnd"
             card_view:layout_constraintBottom_toBottomOf="parent"
             card_view:layout_constraintEnd_toEndOf="parent"
             card_view:layout_constraintTop_toBottomOf="@id/tv_item_name"
