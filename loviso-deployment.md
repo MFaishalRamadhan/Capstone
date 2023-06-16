@@ -17,12 +17,11 @@ git clone https://github.com/MFaishalRamadhan/Capstone.git
 ```bash
 cd 'Deployment Loviso'
 ```
-## Step 3: 
-```bash
-gcloud builds submit --tag gcr.io/latihan-deploy-ml-loviso/get_recommendations
-```
 
-## Step 4: Deploy to Cloud Run
+## Step 3: Cloud Build and Deploy
 ```bash
-gcloud run deploy --image gcr.io/latihan-deploy-ml-loviso/get_recommendations --platform managed
+gcloud builds submit --tag gcr.io/[Your_Project_ID]/[Your_Function_Name]
+```
+```bash
+gcloud run deploy --image gcr.io/[Your_Project_ID]/[Your_Function_Name] --platform managed
 ```
