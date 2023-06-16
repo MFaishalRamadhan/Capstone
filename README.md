@@ -26,7 +26,7 @@ https://docs.google.com/spreadsheets/d/1Btsjnc3O3EWWElGuYWg633htufJCwORf/edit#gi
 
 ## Tools
 ● Android: Figma, Maze, Android Studio, Postman <br>
-● Machine Learning: PyCharm <br>
+● Machine Learning: PyCharm, Google Colaboratory, Docker, Postman <br>
 ● Cloud Computing: Google CLoud Platform (GCP), Firebase, Postman <br>
 
 ## Library
