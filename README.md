@@ -4,7 +4,8 @@ Capstone Project C23-PS126
 [Logo Loviso]
 
 ## Overview
-(Deskripsi Loviso)
+Loviso is a mobile application designed to increase MSMEs and regional commodities <br>
+We plan to introduce MSME products and regional commodities that have not been published optimally to help the regional economy and prepare society for the industrial revolution 4.0
 
 ## Project Team Member
 ● (ML) M166DSX1823 – Muhamad Faishal Ramadhan – Universitas Diponegoro <br>
@@ -23,7 +24,7 @@ https://docs.google.com/spreadsheets/d/1Btsjnc3O3EWWElGuYWg633htufJCwORf/edit#gi
 ## Tools
 ● Android: Figma, Maze, Android Studio, Postman <br>
 ● Machine Learning: PyCharm <br>
-● Cloud Computing: Google CLoud Platform (GCP), Postman <br>
+● Cloud Computing: Google CLoud Platform (GCP), Firebase, Postman <br>
 
 ## Library
 ● Android: Google Android GMS, Google Android Material, AndroidX, Squareup Retrofit2 <br>
