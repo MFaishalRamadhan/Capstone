@@ -17,11 +17,11 @@ We plan to introduce MSME products and regional commodities that have not been p
 
 ## Features
 ● Recommendations <br>
-<img src="recommendations.png" width="900">
+<img src="recommendations.png" width="600">
 ● Maps <br>
-<img src="Maps.png" width="900">
+<img src="Maps.png" width="600">
 ● Market <br>
-<img src="Market.png" width="900">
+<img src="Market.png" width="600">
 
 ## Dataset for Deployment <br>
 Link Places_Dataset: <br>
