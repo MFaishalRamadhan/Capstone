@@ -30,7 +30,7 @@ Link Deploy API Loviso (Flask): https://apiloviso-n2pk7zaj5a-et.a.run.app/ <br>
 ● End Point 2 (POST): https://apiloviso-n2pk7zaj5a-et.a.run.app/collaborative <br>
 
 ## API Documentation
-● Flask: https://documenter.getpostman.com/view/28023494/2s93shyUnx<br>
+Flask API: https://documenter.getpostman.com/view/28023494/2s93shyUnx<br>
 
 ## Deploy to Google Cloud Platform
 The deployment of our Flask App is documented [here](loviso-deployment.md)
