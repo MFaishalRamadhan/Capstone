@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Gudetamaaa</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_is_setting_fragment">This is setting fragment</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_map">Map</string>
+    <string name="title_kategori">Kategori</string>
+    <string name="searchbar_hint">Enaknya makan apa ya?</string>
+    <string name="title_item">Judul</string>
+    <string name="rating">Rating</string>
+    <string name="range">Range</string>
+    <string name="title_recommendation_list">Direkomendasikan untuk anda</string>
+    <string name="title_place_recommendation">Berdasarkan lokasi anda</string>
+    <string name="title_page_setting">Pengaturan</string>
+    <string-array name="account_setting_menu_list">
+        <item>Akun</item>
+        <item>Keamanan</item>
+    </string-array>
+    <string-array name="other_setting_menu_list">
+        <item>Bahasa</item>
+        <item>Tema</item>
+        <item>Lokasi</item>
+        <item>Terms and Conditions</item>
+    </string-array>
+    <array name="icon_menu_setting">
+        <item>@drawable/baseline_account_circle_24</item>
+        <item>@drawable/outline_security_24</item>
+    </array>
+    <array name="icon_other_setting">
+        <item>@drawable/baseline_language_24</item>
+        <item>@drawable/baseline_light_mode_24</item>
+        <item>@drawable/baseline_location_on_24</item>
+        <item>@drawable/baseline_article_24</item>
+    </array>
+
+    <string name="text_logout">Logout</string>
+    <string name="title_account_setting">Akun dan Keamanan</string>
+    <string name="text_account">Account</string>
+    <string name="lainnya">Lainnya</string>
+</resources>
