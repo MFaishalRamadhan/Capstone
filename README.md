@@ -16,7 +16,7 @@ We plan to introduce MSME products and regional commodities that have not been p
 ● (MD) A042DSX3463 – Alfan Didan Septiandri Argandi – Institut Teknologi Telkom Purwokerto <br>
 
 ## Features
-<img src="Features.png" width="300"> <br>
+<img src="Features.png" width="900"> <br>
 
 ## Dataset for Deployment <br>
 Link Places_Dataset: <br>
