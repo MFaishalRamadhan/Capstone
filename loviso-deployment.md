@@ -1,6 +1,6 @@
 # Loviso Deployment in GCP
 
-## Loviso’s Cloud Architecture
+## Cloud Architecture
 ![GLoviso’s Cloud Architecture](loviso-cloud-architecture.jpg)
 
 ## Step 1: Activate the API for both Cloud Build and Cloud Run 
@@ -12,9 +12,7 @@ gcloud services enable \
 
 ## Step 2: Clone The Repository then Move to Folder 'Deployment Loviso'
 ```bash
-gcloud services enable \
-    containerregistry.googleapis.com \
-    run.googleapis.com \
+git clone https://github.com/MFaishalRamadhan/Capstone.git
 ```
 ```bash
 cd 'Deployment Loviso'
