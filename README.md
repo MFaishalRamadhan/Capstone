@@ -1,10 +1,10 @@
 # Loviso
 Capstone Project C23-PS126
 
-[Logo Loviso]
+<img src="loviso.jpg" width="900">
 
 ## Overview
-Loviso is a mobile application designed to increase MSMEs and regional commodities <br>
+Loviso (Location Advisor) is a mobile application designed to increase MSMEs and regional commodities <br>
 We plan to introduce MSME products and regional commodities that have not been published optimally to help the regional economy and prepare society for the industrial revolution 4.0
 
 ## Project Team Member
