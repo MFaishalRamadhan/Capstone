@@ -1,0 +1,127 @@
+{
+    "collection": {
+        "info": {
+            "_postman_id": "1ea8d326-cc10-43c0-bc6f-c39d03badd43",
+            "name": "lovisotest",
+            "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+            "updatedAt": "2023-06-09T09:34:55.000Z",
+            "uid": "27869376-1ea8d326-cc10-43c0-bc6f-c39d03badd43"
+        },
+        "item": [
+            {
+                "name": "Register",
+                "id": "b338d95b-c291-4765-a594-06e6d77c630d",
+                "protocolProfileBehavior": {
+                    "disableBodyPruning": true
+                },
+                "request": {
+                    "method": "POST",
+                    "header": [],
+                    "body": {
+                        "mode": "raw",
+                        "raw": "{\r\n    \"Email\": \"yudha@gmail.com\",\r\n    \"Password\": \"12345678\"\r\n}",
+                        "options": {
+                            "raw": {
+                                "language": "json"
+                            }
+                        }
+                    },
+                    "url": {
+                        "raw": "https://restapifirebase-389204-default-rtdb.asia-southeast1.firebasedatabase.app/lovisotest",
+                        "protocol": "https",
+                        "host": [
+                            "restapifirebase-389204-default-rtdb",
+                            "asia-southeast1",
+                            "firebasedatabase",
+                            "app"
+                        ],
+                        "path": [
+                            "lovisotest"
+                        ]
+                    }
+                },
+                "response": [],
+                "uid": "27869376-b338d95b-c291-4765-a594-06e6d77c630d"
+            },
+            {
+                "name": "Delete User",
+                "id": "0b6fc82a-1fe4-400c-8713-d824d896617c",
+                "protocolProfileBehavior": {
+                    "disableBodyPruning": true
+                },
+                "request": {
+                    "method": "DELETE",
+                    "header": [],
+                    "body": {
+                        "mode": "raw",
+                        "raw": ""
+                    },
+                    "url": {
+                        "raw": "https://restapifirebase-389204-default-rtdb.asia-southeast1.firebasedatabase.app/lovisotest.json",
+                        "protocol": "https",
+                        "host": [
+                            "restapifirebase-389204-default-rtdb",
+                            "asia-southeast1",
+                            "firebasedatabase",
+                            "app"
+                        ],
+                        "path": [
+                            "lovisotest.json"
+                        ]
+                    }
+                },
+                "response": [],
+                "uid": "27869376-0b6fc82a-1fe4-400c-8713-d824d896617c"
+            },
+            {
+                "name": "Login",
+                "id": "11e6ae4c-9133-48cf-9718-58bc307df168",
+                "protocolProfileBehavior": {
+                    "disableBodyPruning": true
+                },
+                "request": {
+                    "method": "GET",
+                    "header": []
+                },
+                "response": [],
+                "uid": "27869376-11e6ae4c-9133-48cf-9718-58bc307df168"
+            },
+            {
+                "name": "Update User",
+                "id": "da4447fd-715b-48a0-9445-2a8190ac3943",
+                "protocolProfileBehavior": {
+                    "disableBodyPruning": true
+                },
+                "request": {
+                    "method": "PUT",
+                    "header": [],
+                    "body": {
+                        "mode": "raw",
+                        "raw": "{\r\n    \"Email\": \"prastyo@gmail.com\",\r\n    \"Password\": \"0987654321\"\r\n}",
+                        "options": {
+                            "raw": {
+                                "language": "json"
+                            }
+                        }
+                    },
+                    "url": {
+                        "raw": "https://restapifirebase-389204-default-rtdb.asia-southeast1.firebasedatabase.app/lovisotest/-NXQlrAA3ab646ouC76o.json",
+                        "protocol": "https",
+                        "host": [
+                            "restapifirebase-389204-default-rtdb",
+                            "asia-southeast1",
+                            "firebasedatabase",
+                            "app"
+                        ],
+                        "path": [
+                            "lovisotest",
+                            "-NXQlrAA3ab646ouC76o.json"
+                        ]
+                    }
+                },
+                "response": [],
+                "uid": "27869376-da4447fd-715b-48a0-9445-2a8190ac3943"
+            }
+        ]
+    }
+}
