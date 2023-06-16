@@ -15,6 +15,14 @@ We plan to introduce MSME products and regional commodities that have not been p
 ● (CC) C368DSX3062 – I Nyoman Natha Pratama – Universitas Udayana <br>
 ● (MD) A042DSX3463 – Alfan Didan Septiandri Argandi – Institut Teknologi Telkom Purwokerto <br>
 
+## Features
+● Recommendations <br>
+<img src="recommendations.png" width="900">
+● Maps <br>
+<img src="Maps.png" width="900">
+● Market <br>
+<img src="Market.png" width="900">
+
 ## Dataset for Deployment <br>
 Link Places_Dataset: <br>
 https://docs.google.com/spreadsheets/d/1uNjtGcBoy4QIqnhTThsB1jPxOTH-ioQf/edit#gid=1357539679 <br>
