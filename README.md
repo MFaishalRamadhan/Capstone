@@ -20,11 +20,13 @@ https://docs.google.com/spreadsheets/d/1uNjtGcBoy4QIqnhTThsB1jPxOTH-ioQf/edit#gi
 Link Users_Dataset: <br>
 https://docs.google.com/spreadsheets/d/1Btsjnc3O3EWWElGuYWg633htufJCwORf/edit#gid=849637914 <br>
 
-## Flask Documentation <br>
-https://documenter.getpostman.com/view/28023494/2s93shyUnx <br>
+## Tools
+● Android: Figma, Maze, Android Studio, Postman <br>
+● Machine Learning: PyCharm <br>
+● Cloud Computing: Google CLoud Platform (GCP), Postman <br>
 
 ## Library
-● Android: Figma, Android Studio, Kotlin<br>
+● Android: Google Android GMS, Google Android Material, AndroidX, Squareup Retrofit2 <br>
 ● Machine Learning: Flask, gunicorn, tensorflow, joblib, pandas, numpy, scikit-learn, h5py, openpyxl <br>
 
 ## Deployed App
