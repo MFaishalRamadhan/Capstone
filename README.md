@@ -34,4 +34,4 @@ Link Deploy API Loviso (Flask): https://apiloviso-n2pk7zaj5a-et.a.run.app/ <br>
 ● Firebase: <br>
 
 ## Deploy to Google Cloud Platform
-The deployment of our Flask App is documented here
+The deployment of our Flask App is documented [here](loviso-deployment.md)
